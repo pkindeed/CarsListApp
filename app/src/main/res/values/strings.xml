@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cars available</string>
+    <string name="title_map">Cars on map</string>
+    <string name="title_list">Car list</string>
+    <string name="title_filter">Car search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
